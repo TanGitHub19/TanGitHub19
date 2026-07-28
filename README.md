@@ -1,5 +1,5 @@
 <h1 align="center">Mark Tristan Raroque</h1>
-<h3 align="center">Full-Stack & AI-Assisted Software Developer</h3>
+<h3 align="center">Full-Stack Software Developer</h3>
 
 <p align="center">
   <a href="https://tangithub19.github.io"><img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" /></a>
