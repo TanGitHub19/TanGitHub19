@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mark Tristan Raroque 👋</h1>
-<h3 align="center">Full-Stack Software Developer | Tech Enthusiast</h3>
+<h3 align="center">Full-Stack Software Developer</h3>
 
 ---
 
@@ -33,6 +33,7 @@ Welcome to my digital playground! I'm a passionate developer currently brewing u
 ### 📊 GitHub Stats
 
 <p align="center">
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TanGitHub19&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=TanGitHub19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mark's GitHub Stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=TanGitHub19&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
