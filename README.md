@@ -7,7 +7,7 @@
 
 Welcome to my digital playground! I'm a passionate developer currently brewing up code in Alaminos City, Pangasinan, Philippines! 🌴
 
-- 🎓 I'm working towards my **BS in Information Technology** at PHINMA University (Class of 2026).
+- 🎓 BS Information Technology graduate, PHINMA University (2026).
 - 💻 **Code is my canvas!** I love bringing ideas to life across the stack using **React, TypeScript, Python, Flutter**, and **Node.js**. 
 - 🕵️‍♂️ I'm also deeply fascinated by the world of cybersecurity and actively exploring tools like **Wireshark, Nmap**, and **Burp Suite**.
 - 🌟 **My Goal:** I'm actively seeking exciting opportunities in **Software Engineering** where I can solve real-world problems and build awesome products!
