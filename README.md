@@ -34,10 +34,8 @@ Welcome to my digital playground! I'm a passionate developer currently brewing u
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TanGitHub19&show_icons=true&theme=tokyonight&hide_border=true" />
-
   <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=TanGitHub19&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=TanGitHub19&theme=tokyonight&hide_border=true" />
 </p>
