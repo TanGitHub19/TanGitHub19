@@ -33,12 +33,11 @@ Welcome to my digital playground! I'm a passionate developer currently brewing u
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TanGitHub19&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=TanGitHub19&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TanGitHub19&show_icons=true&theme=tokyonight&hide_border=true" alt="Mark's GitHub Stats" />
+
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=TanGitHub19&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=TanGitHub19&theme=tokyonight&hide_border=true" />
-</p>
+
 ---
 
 ### 🐍 Contributions
@@ -47,7 +46,7 @@ Welcome to my digital playground! I'm a passionate developer currently brewing u
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TanGitHub19/TanGitHub19/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TanGitHub19/TanGitHub19/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/TanGitHub19/TanGitHub19/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/TanGitHub19/TanGitHub19/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
