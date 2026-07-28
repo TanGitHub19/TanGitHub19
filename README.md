@@ -29,13 +29,6 @@ Welcome to my digital playground! I'm a passionate developer currently brewing u
 </p>
 
 ---
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TanGitHub19&show_icons=true&theme=tokyonight&hide_border=true" alt="Mark's GitHub Stats" />
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=TanGitHub19&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
 
 ### 🐍 Contributions
