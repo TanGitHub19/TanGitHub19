@@ -8,7 +8,7 @@
 Welcome to my digital playground! I'm a passionate developer currently brewing up code in Alaminos City, Pangasinan, Philippines! 🌴
 
 - 🎓 BS Information Technology graduate, PHINMA University (2026).
-💻 Building digital solutions: I enjoy transforming ideas into scalable and user-focused applications across the stack using technologies like React, TypeScript, Python, Flutter, Node.js, and .NET. I focus on creating clean, efficient, and impactful software that solves real-world problems.
+- 💻 Building digital solutions: I enjoy transforming ideas into scalable and user-focused applications across the stack using technologies like React, TypeScript, Python, Flutter, Node.js, and .NET. I focus on creating clean, efficient, and impactful software that solves real-world problems.
 - 🕵️‍♂️ I'm also deeply fascinated by the world of cybersecurity and actively exploring tools like **Wireshark, Nmap**, and **Burp Suite**.
 - 🌟 **My Goal:** I'm actively seeking exciting opportunities in **Software Engineering** where I can solve real-world problems and build awesome products!
 - ⚡ **Fun Fact:** When I'm not building software, I enjoy music, learning automation, and exploring the latest AI innovations. I'm always curious about new technologies and how they can be used to create meaningful solutions.
