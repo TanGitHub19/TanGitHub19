@@ -19,7 +19,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg
         env:
-          GITHUB_TOKEN: ${{ secrets.SNAKE_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.SECRET_TOKEN }}
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
